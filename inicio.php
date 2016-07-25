@@ -13,6 +13,7 @@
 			En este sistema se podrán ver y generar documentos de los reportes brindados diariamente por SCP(Sistema de Control de Personal).
 			<br><br>
 			Recordatorío: <br>
+			Toda la información es de uso único para la Facultad de Sistemas e Informática.
 		</p>
 
 	</div>

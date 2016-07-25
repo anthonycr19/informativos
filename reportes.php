@@ -8,11 +8,9 @@
 
 <div class="section_home">
 	<div class="container">
-		<h2>Bienvenido al Sistema de Control de Personal</h2>
+		<h2>Reportes del sistema</h2>
 		<p>
-			En este sistema se podrán ver y generar documentos de los reportes brindados diariamente por SCP(Sistema de Control de Personal).
-			<br><br>
-			Recordatorío: <br>
+			En esta seccion se generaran los reportes
 		</p>
 
 	</div>
