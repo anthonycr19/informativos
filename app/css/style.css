@@ -1,6 +1,38 @@
 /*Header*/
+#bs-example-navbar-collapse-1{
+	background-color: white;
+	padding-left: 0;
+	padding-right: 0;
+}
+#bs-example-navbar-collapse-1 a{
+	text-decoration: none;
+	color: #212121;
+	border-radius: 15px;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+	background-color: #2196F3 !important;
+}
+.container-fluid{
+	padding-left: 0;
+	padding-right: 0;
+}
+.navbar-collapse h1{
+	float: right;
+	margin-top: 10px;
+	font-family: monospace;
+	font-size: 20px;
 
-
+	margin-bottom: 0;
+}
+.navbar-default{
+	background-color: transparent;
+}
+nav{
+	padding-left: 0 !important;
+	padding-right: 0!important;
+	border: 0!important;
+	padding-top: 1em !important;
+}
 /*Footer*/
 
 
